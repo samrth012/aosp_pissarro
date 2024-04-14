@@ -1,3 +1,3 @@
 # AOSP Pissarro
 
-Placeholder
+Check out release [here](https://github.com/samrth012/aosp_pissarro/releases)
