@@ -1,0 +1,5188 @@
+[
+   {
+      "name": "6.1 Plus",
+      "brand": "Nokia",
+      "codename": "DRG",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "stable": false,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_nokia_DRG",
+         "device_nokia_sdm660-common",
+         "vendor_nokia_DRG",
+         "vendor_nokia_sdm660-common",
+         "vendor_nokia_Camera",
+         "kernel_nokia_sdm660"
+      ]
+   },
+   {
+      "name": "8",
+      "brand": "Nokia",
+      "codename": "NB1",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_nokia_NB1",
+         "vendor_nokia_NB1",
+         "kernel_nokia_msm8998"
+      ]
+   },
+   {
+      "name": "6.1",
+      "brand": "Nokia",
+      "codename": "PL2",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "stable": false,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_nokia_PL2",
+         "device_nokia_sdm660-common",
+         "vendor_nokia_PL2",
+         "vendor_nokia_sdm660-common",
+         "vendor_nokia_Camera",
+         "kernel_nokia_sdm660"
+      ]
+   },
+   {
+      "name": "6 / 7",
+      "brand": "Realme",
+      "codename": "RM6785",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_realme_RM6785",
+         "kernel_realme_mt6785",
+         "vendor_realme_RM6785",
+         "vendor_realme-firmware"
+      ]
+   },
+   {
+      "name": "3 Pro",
+      "brand": "Realme",
+      "codename": "RMX1851",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_realme_RMX1851",
+         "kernel_realme_sdm710",
+         "vendor_realme_RMX1851"
+      ]
+   },
+   {
+      "name": "5 Pro",
+      "brand": "Realme",
+      "codename": "RMX1971",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_realme_RMX1971",
+         "device_realme_sdm710-common",
+         "kernel_realme_sdm710",
+         "vendor_realme_RMX1971",
+         "vendor_realme_sdm710-common"
+      ]
+   },
+   {
+      "name": "6 Pro",
+      "brand": "Realme",
+      "codename": "RMX2061",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-rmx2061-pixelexperience-aosp-official.4510477/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-rmx2061-pixelexperience-aosp-official.4510477/",
+            "stable": true,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_realme_RMX2061",
+         "device_realme_sm7125-common",
+         "kernel_realme_sm7125",
+         "vendor_realme_RMX2061",
+         "vendor_realme_sm7125-common"
+      ]
+   },
+   {
+      "name": "Phone (1)",
+      "brand": "Nothing",
+      "codename": "Spacewar",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_nothing_Spacewar",
+         "vendor_nothing_Spacewar",
+         "kernel_nothing_sm7325"
+      ]
+   },
+   {
+      "name": "Mini 5G",
+      "brand": "Nubia",
+      "codename": "TP1803",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_nubia_TP1803",
+         "device_qcom_common",
+         "vendor_nubia_TP1803",
+         "vendor_qcom_common"
+      ]
+   },
+   {
+      "name": "Zenfone Max Pro M1",
+      "brand": "ASUS",
+      "codename": "X00TD",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "stable": false,
+            "deprecated": false
+         },
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-x00td-pixelexperience-aosp",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-x00td-pixelexperience-aosp",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-x00td-pixel-experience-aosp.4221031",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-x00td-pixel-experience-aosp.4221031",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_asus_X00TD",
+         "kernel_asus_sdm660",
+         "vendor_asus_X00TD"
+      ]
+   },
+   {
+      "name": "Zenfone Max M2",
+      "brand": "ASUS",
+      "codename": "X01AD",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-beta-x01ad-pixel-experience.4183371",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-beta-x01ad-pixel-experience.4183371",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_asus_X01AD",
+         "kernel_asus_X01AD",
+         "vendor_asus-firmware",
+         "vendor_asus_X01AD"
+      ]
+   },
+   {
+      "name": "Zenfone Max Pro M2",
+      "brand": "ASUS",
+      "codename": "X01BD",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/4368929/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/4368929/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/4501617/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/4501617/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "xda_thread": "",
+            "stable": false,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_asus_X01BD",
+         "device_asus_sdm660-common",
+         "kernel_asus_sdm660",
+         "vendor_asus_X01BD",
+         "vendor_asus-firmware",
+         "vendor_asus_sdm660-common"
+      ]
+   },
+   {
+      "name": "A52 4g",
+      "brand": "Samsung",
+      "codename": "a52q",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/4434401/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/4434401/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/4434401/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/4434401/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "stable": false,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_samsung_a52q",
+         "device_samsung_sm7125-common",
+         "kernel_samsung_sm7125",
+         "vendor_samsung_sm7125-common",
+         "vendor_samsung_a52q"
+      ]
+   },
+   {
+      "name": "A52s 5G",
+      "brand": "Samsung",
+      "codename": "a52sxq",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://xdaforums.com/t/unofficial-rom-13-0-encryption-pixel-experience-13-plus-edition-for-a52s-5g.4574987/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://xdaforums.com/t/unofficial-rom-13-0-encryption-pixel-experience-13-plus-edition-for-a52s-5g.4574987/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "stable": false,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_samsung_a52sxq",
+         "device_samsung_sm7325-common",
+         "kernel_samsung_sm7325",
+         "vendor_samsung_sm7325-common",
+         "vendor_samsung_a52sxq"
+      ]
+   },
+   {
+      "name": "A72",
+      "brand": "Samsung",
+      "codename": "a72q",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/4434401/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/4434401/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/4434401/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/4434401/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "stable": false,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_samsung_a72q",
+         "device_samsung_sm7125-common",
+         "kernel_samsung_sm7125",
+         "vendor_samsung_sm7125-common",
+         "vendor_samsung_a72q"
+      ]
+   },
+   {
+      "name": "A73 5G",
+      "brand": "Samsung",
+      "codename": "a73xq",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://xdaforums.com/t/unofficial-rom-13-0-encryption-pixel-experience-13-plus-edition-for-a52s-5g.4574987/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://xdaforums.com/t/unofficial-rom-13-0-encryption-pixel-experience-13-plus-edition-for-a52s-5g.4574987/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "stable": false,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_samsung_a73xq",
+         "device_samsung_sm7325-common",
+         "kernel_samsung_sm7325",
+         "vendor_samsung_sm7325-common",
+         "vendor_samsung_a73xq"
+      ]
+   },
+   {
+      "name": "Moto Z2 Play",
+      "brand": "Motorola",
+      "codename": "albus",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-albus-pixelexperience-aosp.4246163",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-albus-pixelexperience-aosp.4246163",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_motorola_albus",
+         "device_motorola_msm8953-common",
+         "vendor_motorola_albus",
+         "vendor_motorola_msm8953-common",
+         "kernel_motorola_msm8953"
+      ]
+   },
+   {
+      "name": "Moto G6",
+      "brand": "Motorola",
+      "codename": "ali",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-moto-g6-pixelexperience-aosp.4223579",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-moto-g6-pixelexperience-aosp.4223579",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_motorola_ali",
+         "device_motorola_msm8953-common",
+         "vendor_motorola_ali",
+         "vendor_motorola_msm8953-common",
+         "kernel_motorola_msm8953"
+      ]
+   },
+   {
+      "name": "Redmi K40 / POCO F3 / Mi 11X",
+      "brand": "Xiaomi",
+      "codename": "alioth",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-1-alioth-pixelexperience-for-redmi-k40-poco-f3-mi-11x-aosp.4424733/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-1-alioth-pixelexperience-for-redmi-k40-poco-f3-mi-11x-aosp.4424733/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-alioth-pixelexperience-for-redmi-k40-poco-f3-mi-11x-aosp.4578781/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-alioth-pixelexperience-for-redmi-k40-poco-f3-mi-11x-aosp.4578781/",
+            "stable": true,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_alioth",
+         "kernel_xiaomi_alioth",
+         "vendor_xiaomi_alioth",
+         "wiki_blobs_alioth"
+      ]
+   },
+   {
+      "name": "Mi MIX 3 5G",
+      "brand": "Xiaomi",
+      "codename": "andromeda",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/4131417/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/4131417/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/4131417/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/4131417/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "xda_thread": "https://forum.xda-developers.com/t/4131417/",
+            "stable": false,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_andromeda",
+         "kernel_xiaomi_andromeda",
+         "vendor_xiaomi_andromeda"
+      ]
+   },
+   {
+      "name": "Mi 10T / Mi 10T Pro / Redmi K30S",
+      "brand": "Xiaomi",
+      "codename": "apollo",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/4249647/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/4249647/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/4518339/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/4518339/",
+            "stable": true,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_apollo",
+         "device_xiaomi_sm8250-common",
+         "kernel_xiaomi_sm8250",
+         "vendor_xiaomi_apollo",
+         "vendor_xiaomi_sm8250-common"
+      ]
+   },
+   {
+      "name": "Phone 2",
+      "brand": "Razer",
+      "codename": "aura",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_razer_aura",
+         "kernel_razer_sdm845",
+         "vendor_razer_aura",
+         "vendor_razer_aura-extra"
+      ]
+   },
+   {
+      "name": "Nord",
+      "brand": "OnePlus",
+      "codename": "avicii",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-12-oneplus-nord-avicii-pixel-experience-aosp.4352603",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-12-oneplus-nord-avicii-pixel-experience-aosp.4352603",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-13-oneplus-nord-avicii-pixel-experience-aosp.4540109",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-13-oneplus-nord-avicii-pixel-experience-aosp.4540109",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "stable": false,
+            "telegram_url": "https://t.me/penord",
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_oneplus_avicii",
+         "kernel_oneplus_sm7250",
+         "vendor_oneplus_avicii",
+         "vendor_oneplus-firmware",
+         "wiki_blobs_avicii"
+      ]
+   },
+   {
+      "name": "Pixel 5a",
+      "brand": "Google",
+      "codename": "barbet",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_google_barbet",
+         "device_google_redbull",
+         "vendor_google_barbet",
+         "kernel_google_barbet",
+         "wiki_blobs_redbull"
+      ]
+   },
+   {
+      "name": "Moto Z3 Play",
+      "brand": "Motorola",
+      "codename": "beckham",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-beckham-pixelexperience-12-beta-aosp.4358873",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-beckham-pixelexperience-12-official-aosp.4358873",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-moto-g6-plus-pixelexperience-aosp.4605381/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-moto-g6-plus-pixelexperience-aosp.4605381/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "stable": false,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_motorola_beckham",
+         "device_motorola_sdm660-common",
+         "kernel_motorola_msm8998",
+         "vendor_motorola_beckham",
+         "vendor_motorola-extra",
+         "vendor_motorola_sdm660-common"
+      ]
+   },
+   {
+      "name": "Redmi Note 8 Pro",
+      "brand": "Xiaomi",
+      "codename": "begonia",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-begonia-begoniain-pixel-experience-official-aosp.4196041/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-begonia-begoniain-pixel-experience-official-aosp.4196041/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-begonia-begoniain-pixel-experience-official-aosp.4196041/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-begonia-begoniain-pixel-experience-official-aosp.4196041/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-14-begonia-begoniain-pixel-experience-official-aosp.4196041/",
+            "stable": false,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_begonia",
+         "device_xiaomi_begonia-kernel",
+         "kernel_xiaomi_begonia",
+         "vendor_xiaomi-firmware",
+         "vendor_xiaomi_begonia",
+         "device_mediatek_common",
+         "vendor_mediatek-opensource",
+         "vendor_mediatek_ims",
+         "vendor_mediatek_interfaces"
+      ]
+   },
+   {
+      "name": "Moto Edge 20",
+      "brand": "Motorola",
+      "codename": "berlin",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-motorola-edge-20-berlin-pixelexperience-aosp.4605369/",
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-motorola-edge-20-berlin-pixelexperience-aosp.4605369/",
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "stable": false,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_motorola_berlin",
+         "device_motorola_sm7325-common",
+         "kernel_motorola_sm7325",
+         "vendor_motorola_berlin",
+         "vendor_motorola-extra",
+         "vendor_motorola_sm7325-common",
+         "wiki_blobs_berlin"
+      ]
+   },
+   {
+      "name": "POCO F1",
+      "brand": "Xiaomi",
+      "codename": "beryllium",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/poco-f1/development/rom-pixel-experience-t4196119",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "https://forum.xda-developers.com/poco-f1/development/rom-pixel-experience-t4196119",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-12-0-beryllium-pixel-experience-aosp-2022-01-19.4390697",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-12-0-beryllium-pixel-experience-aosp-2022-01-19.4390697",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-12-0-beryllium-pixel-experience-aosp-2022-01-19.4390697",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-12-0-beryllium-pixel-experience-aosp-2022-01-19.4390697",
+            "stable": true,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_beryllium",
+         "kernel_xiaomi_beryllium",
+         "vendor_xiaomi_beryllium"
+      ]
+   },
+   {
+      "name": "Galaxy S10e",
+      "brand": "Samsung",
+      "codename": "beyond0lte",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-unofficial-ota-pixelexperience-pixelexperience-plus-for-s10-series-aosp-dynamic-encryption.4523529/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-unofficial-ota-pixelexperience-pixelexperience-plus-for-s10-series-aosp-dynamic-encryption.4523529/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-12-galaxy-s10-e-5g-pixelexperience-aosp-encryption.4406323/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-12-galaxy-s10-e-5g-pixelexperience-aosp-encryption.4406323/",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_samsung_beyond0lte",
+         "device_samsung_exynos9820-common",
+         "kernel_samsung_exynos9820",
+         "vendor_samsung"
+      ]
+   },
+   {
+      "name": "Galaxy S10",
+      "brand": "Samsung",
+      "codename": "beyond1lte",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-unofficial-ota-pixelexperience-pixelexperience-plus-for-s10-series-aosp-dynamic-encryption.4523529/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-unofficial-ota-pixelexperience-pixelexperience-plus-for-s10-series-aosp-dynamic-encryption.4523529/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-12-galaxy-s10-e-5g-pixelexperience-aosp-encryption.4406323/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-12-galaxy-s10-e-5g-pixelexperience-aosp-encryption.4406323/",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_samsung_beyond1lte",
+         "device_samsung_exynos9820-common",
+         "kernel_samsung_exynos9820",
+         "vendor_samsung"
+      ]
+   },
+   {
+      "name": "Galaxy S10+",
+      "brand": "Samsung",
+      "codename": "beyond2lte",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-unofficial-ota-pixelexperience-pixelexperience-plus-for-s10-series-aosp-dynamic-encryption.4523529/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-unofficial-ota-pixelexperience-pixelexperience-plus-for-s10-series-aosp-dynamic-encryption.4523529/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-12-galaxy-s10-e-5g-pixelexperience-aosp-encryption.4406323/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-12-galaxy-s10-e-5g-pixelexperience-aosp-encryption.4406323/",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_samsung_beyond2lte",
+         "device_samsung_exynos9820-common",
+         "kernel_samsung_exynos9820",
+         "vendor_samsung"
+      ]
+   },
+   {
+      "name": "Galaxy S10 5G",
+      "brand": "Samsung",
+      "codename": "beyondx",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-unofficial-ota-pixelexperience-pixelexperience-plus-for-s10-series-aosp-dynamic-encryption.4523529/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-unofficial-ota-pixelexperience-pixelexperience-plus-for-s10-series-aosp-dynamic-encryption.4523529/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-12-galaxy-s10-e-5g-pixelexperience-aosp-encryption.4406323/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-12-galaxy-s10-e-5g-pixelexperience-aosp-encryption.4406323/",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_samsung_beyondx",
+         "device_samsung_exynos9820-common",
+         "kernel_samsung_exynos9820",
+         "vendor_samsung"
+      ]
+   },
+   {
+      "name": "Pixel 3",
+      "brand": "Google",
+      "codename": "blueline",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "xda_thread": "",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve",
+            "xda_thread": "",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_google_blueline",
+         "device_google_crosshatch",
+         "kernel_google_bluecross",
+         "vendor_google_blueline"
+      ]
+   },
+   {
+      "name": "Pixel 3A XL",
+      "brand": "Google",
+      "codename": "bonito",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-bonito-pixel-experience-aosp.4499563/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-bonito-pixel-experience-aosp.4499563/",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_google_bonito",
+         "vendor_google_bonito",
+         "kernel_google_msm-4.9"
+      ]
+   },
+   {
+      "name": "Pixel 4a (5G)",
+      "brand": "Google",
+      "codename": "bramble",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_google_bramble",
+         "device_google_redbull",
+         "vendor_google_bramble",
+         "kernel_google_redbull",
+         "wiki_blobs_redbull"
+      ]
+   },
+   {
+      "name": "Mi 5s",
+      "brand": "Xiaomi",
+      "codename": "capricorn",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/mi-5s/development/rom-pixel-experience-t4207137",
+            "deprecated": true,
+            "stable": false
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "https://forum.xda-developers.com/mi-5s/development/rom-pixel-experience-t4207137",
+            "deprecated": true,
+            "stable": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_capricorn",
+         "device_xiaomi_msm8996-common",
+         "kernel_xiaomi_msm8996",
+         "vendor_xiaomi_msm8996-common",
+         "vendor_xiaomi_capricorn"
+      ]
+   },
+   {
+      "name": "Mi 9",
+      "brand": "Xiaomi",
+      "codename": "cepheus",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "",
+            "stable": true,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_cepheus",
+         "kernel_xiaomi_cepheus",
+         "vendor_xiaomi_cepheus",
+         "vendor_xiaomi-firmware"
+      ]
+   },
+   {
+      "name": "5",
+      "brand": "OnePlus",
+      "codename": "cheeseburger",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "stable": false,
+            "xda_thread": "https://forum.xda-developers.com/t/official-rom-11-0-pixel-experience-11-oneplus-5-5t-dumpling-cheeseburger.4198963/",
+            "deprecated": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "stable": false,
+            "xda_thread": "https://forum.xda-developers.com/t/official-rom-11-0-pixel-experience-11-oneplus-5-5t-dumpling-cheeseburger.4198963/",
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "xda_thread": "https://forum.xda-developers.com/t/beta-12-0-pixel-experience-12-oneplus-5-5t-dumpling-cheeseburger.4351697/",
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "stable": false,
+            "xda_thread": "https://forum.xda-developers.com/t/beta-12-0-pixel-experience-12-oneplus-5-5t-dumpling-cheeseburger.4351697/",
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-cheeseburger-pixelexperience-aosp.4578369/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-cheeseburger-pixelexperience-aosp.4578369/",
+            "stable": true,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_oneplus_cheeseburger",
+         "kernel_oneplus_msm8998",
+         "vendor_oneplus_cheeseburger"
+      ]
+   },
+   {
+      "name": "Moto One Power",
+      "brand": "Motorola",
+      "codename": "chef",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-chef-pixelexperience-normal-plus-aosp.4302671/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-chef-pixelexperience-normal-plus-aosp.4302671/",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_motorola_chef",
+         "device_motorola_sdm660-common",
+         "vendor_motorola_chef",
+         "vendor_motorola_sdm660-common",
+         "kernel_motorola_msm8998"
+      ]
+   },
+   {
+      "name": "Mi MIX 2",
+      "brand": "Xiaomi",
+      "codename": "chiron",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_msm8998-common",
+         "vendor_xiaomi_msm8998-common",
+         "kernel_xiaomi_msm8998",
+         "device_xiaomi_chiron",
+         "vendor_xiaomi_chiron",
+         "wiki_blobs_chiron"
+      ]
+   },
+   {
+      "name": "POCO M3",
+      "brand": "Xiaomi",
+      "codename": "citrus",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_chime",
+         "device_xiaomi_citrus",
+         "kernel_xiaomi_chime",
+         "vendor_xiaomi_chime",
+         "vendor_xiaomi_chime-perf",
+         "vendor_xiaomi_citrus"
+      ]
+   },
+   {
+      "name": "Mi Pad 4 / 4 Plus",
+      "brand": "Xiaomi",
+      "codename": "clover",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_clover",
+         "kernel_xiaomi_clover",
+         "vendor_xiaomi_clover",
+         "vendor_xiaomi_clover-extra"
+      ]
+   },
+   {
+      "name": "Pixel 4 XL",
+      "brand": "Google",
+      "codename": "coral",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-coral-pixelexperience-aosp.4406399/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-coral-pixelexperience-aosp.4406399/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-coral-pixelexperience-aosp.4518691/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-coral-pixelexperience-aosp.4518691/",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_google_coral",
+         "kernel_google_msm-4.14",
+         "vendor_google_coral"
+      ]
+   },
+   {
+      "name": "Pixel 3 XL",
+      "brand": "Google",
+      "codename": "crosshatch",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "xda_thread": "",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve",
+            "xda_thread": "",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_google_crosshatch",
+         "kernel_google_bluecross",
+         "vendor_google_crosshatch"
+      ]
+   },
+   {
+      "name": "Galaxy Note9",
+      "brand": "Samsung",
+      "codename": "crownlte",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-1-oss-pixelexperience-plus-unofficial.4399581/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-1-oss-pixelexperience-plus-unofficial.4399581/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/4399581/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/4399581/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "xda_thread": "https://forum.xda-developers.com/t/4399581/",
+            "stable": false,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_samsung_crownlte",
+         "device_samsung_exynos9810-common",
+         "kernel_samsung_exynos9810",
+         "vendor_samsung_crownlte",
+         "vendor_samsung_exynos9810-common"
+      ]
+   },
+   {
+      "name": "Galaxy Note10",
+      "brand": "Samsung",
+      "codename": "d1",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-unofficial-ota-pixelexperience-pixelexperience-plus-aosp-for-note-10-series-dynamic-encryption.4523537/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-unofficial-ota-pixelexperience-pixelexperience-plus-aosp-for-note-10-series-dynamic-encryption.4523537/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-12-galaxy-note-10-5g-pixelexperience-aosp-encryption.4406327/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-12-galaxy-note-10-5g-pixelexperience-aosp-encryption.4406327/",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_samsung_d1",
+         "device_samsung_exynos9820-common",
+         "kernel_samsung_exynos9820",
+         "vendor_samsung"
+      ]
+   },
+   {
+      "name": "Galaxy Note10+",
+      "brand": "Samsung",
+      "codename": "d2s",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-unofficial-ota-pixelexperience-pixelexperience-plus-aosp-for-note-10-series-dynamic-encryption.4523537/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-unofficial-ota-pixelexperience-pixelexperience-plus-aosp-for-note-10-series-dynamic-encryption.4523537/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-12-galaxy-note-10-5g-pixelexperience-aosp-encryption.4406327/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-12-galaxy-note-10-5g-pixelexperience-aosp-encryption.4406327/",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_samsung_d2s",
+         "device_samsung_exynos9820-common",
+         "kernel_samsung_exynos9820",
+         "vendor_samsung"
+      ]
+   },
+   {
+      "name": "Galaxy Note10+ 5G",
+      "brand": "Samsung",
+      "codename": "d2x",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-unofficial-ota-pixelexperience-pixelexperience-plus-aosp-for-note-10-series-dynamic-encryption.4523537/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-unofficial-ota-pixelexperience-pixelexperience-plus-aosp-for-note-10-series-dynamic-encryption.4523537/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-12-galaxy-note-10-5g-pixelexperience-aosp-encryption.4406327/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-12-galaxy-note-10-5g-pixelexperience-aosp-encryption.4406327/",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_samsung_d2x",
+         "device_samsung_exynos9820-common",
+         "kernel_samsung_exynos9820",
+         "vendor_samsung"
+      ]
+   },
+   {
+      "name": "Redmi K20 / Mi 9T",
+      "brand": "Xiaomi",
+      "codename": "davinci",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/mi-9t/development/official-pixelexperience-10-davinci-t4151687",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "https://forum.xda-developers.com/mi-9t/development/official-pixelexperience-10-davinci-t4151687",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-davinci-pixelexperience-aosp.4570637/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-davinci-pixelexperience-aosp.4570637/",
+            "stable": true,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_davinci",
+         "kernel_xiaomi_sm6150",
+         "vendor_xiaomi_davinci"
+      ]
+   },
+   {
+      "name": "Mi 8",
+      "brand": "Xiaomi",
+      "codename": "dipper",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-12-0-dipper-pixel-experience-aosp.4244675/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-12-0-dipper-pixel-experience-aosp.4244675/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-12-0-dipper-pixel-experience-aosp.4244675/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-12-0-dipper-pixel-experience-aosp.4244675/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-12-0-dipper-pixel-experience-aosp.4244675/",
+            "stable": false,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_dipper",
+         "kernel_xiaomi_sdm845",
+         "vendor_xiaomi_dipper",
+         "vendor_xiaomi-firmware",
+         "device_xiaomi_sdm845-common",
+         "vendor_xiaomi_sdm845-common"
+      ]
+   },
+   {
+      "name": "Nord N200 5G",
+      "brand": "OnePlus",
+      "codename": "dre",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-13-dre-pixelexperience-for-oneplus-nord-n200-5g-aosp.4592973/",
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-13-dre-pixelexperience-for-oneplus-nord-n200-5g-aosp.4592973/",
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_oneplus_dre",
+         "vendor_oneplus_dre",
+         "kernel_oneplus_sm4350",
+         "wiki_blobs_dre"
+      ]
+   },
+   {
+      "name": "Moto Edge 30",
+      "brand": "Motorola",
+      "codename": "dubai",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_motorola_dubai",
+         "device_motorola_sm7325-common",
+         "kernel_motorola_sm7325",
+         "vendor_motorola_dubai",
+         "vendor_motorola_sm7325-common",
+         "wiki_blobs_dubai"
+      ]
+   },
+   {
+      "name": "5T",
+      "brand": "OnePlus",
+      "codename": "dumpling",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "stable": false,
+            "xda_thread": "https://forum.xda-developers.com/t/official-rom-11-0-pixel-experience-11-oneplus-5-5t-dumpling-cheeseburger.4198963/",
+            "deprecated": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "stable": false,
+            "xda_thread": "https://forum.xda-developers.com/t/official-rom-11-0-pixel-experience-11-oneplus-5-5t-dumpling-cheeseburger.4198963/",
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "xda_thread": "https://forum.xda-developers.com/t/beta-12-0-pixel-experience-12-oneplus-5-5t-dumpling-cheeseburger.4351697/",
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "stable": false,
+            "xda_thread": "https://forum.xda-developers.com/t/beta-12-0-pixel-experience-12-oneplus-5-5t-dumpling-cheeseburger.4351697/",
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_oneplus_msm8998-common",
+         "device_oneplus_dumpling",
+         "kernel_oneplus_msm8998",
+         "vendor_oneplus_msm8998-common",
+         "vendor_oneplus_dumpling"
+      ]
+   },
+   {
+      "name": "6",
+      "brand": "OnePlus",
+      "codename": "enchilada",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "stable": false,
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-enchilada-pixelexperience-aosp-official.4286169/",
+            "deprecated": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "stable": false,
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-enchilada-pixelexperience-aosp-official.4286169/",
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": false,
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-enchilada-13-pixelexperience-13-for-oneplus-6-aosp.4583487/",
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": false,
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-enchilada-13-pixelexperience-13-for-oneplus-6-aosp.4583487/",
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_oneplus_enchilada",
+         "device_oneplus_sdm845-common",
+         "vendor_oneplus_enchilada",
+         "vendor_oneplus_sdm845-common",
+         "kernel_oneplus_sdm845"
+      ]
+   },
+   {
+      "name": "Moto G6 Plus",
+      "brand": "Motorola",
+      "codename": "evert",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "stable": false,
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-evert-pixelexperience-normal-plus-aosp.4247629/",
+            "deprecated": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "stable": false,
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-evert-pixelexperience-normal-plus-aosp.4247629/",
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-moto-g6-plus-pixelexperience-aosp.4605381/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-moto-g6-plus-pixelexperience-aosp.4605381/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "stable": false,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_motorola_evert",
+         "kernel_motorola_msm8998",
+         "vendor_motorola_evert",
+         "vendor_motorola-extra",
+         "vendor_motorola_sdm660-common",
+         "device_motorola_sdm660-common"
+      ]
+   },
+   {
+      "name": "6T",
+      "brand": "OnePlus",
+      "codename": "fajita",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "stable": false,
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-fajita-official-pixelexperience-13-aosp-oneplus-6t.4500721/",
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": false,
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-fajita-official-pixelexperience-13-aosp-oneplus-6t.4500721/",
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_oneplus_fajita",
+         "vendor_oneplus_fajita",
+         "device_oneplus_sdm845-common",
+         "kernel_oneplus_sdm845",
+         "vendor_oneplus_sdm845-common"
+      ]
+   },
+   {
+      "name": "Pixel 4",
+      "brand": "Google",
+      "codename": "flame",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-flame-pixelexperience-aosp.4406401/",
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-flame-pixelexperience-aosp.4406401/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-flame-pixelexperience-aosp.4518693/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-flame-pixelexperience-aosp.4518693/",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_google_flame",
+         "device_google_coral",
+         "kernel_google_msm-4.14",
+         "vendor_google_flame"
+      ]
+   },
+   {
+      "name": "Redmi 10 / 10C / 10 Power",
+      "brand": "Xiaomi",
+      "codename": "fog",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "xda_thread": "",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "",
+            "stable": true,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_qcom_common",
+         "device_qcom_common-sepolicy",
+         "device_qcom_qssi",
+         "device_qcom_vendor-common",
+         "device_qcom_wlan",
+         "device_xiaomi_fog",
+         "device_xiaomi_fog-kernel",
+         "device_xiaomi_sm6225-common",
+         "vendor_xiaomi_fog",
+         "vendor_xiaomi_sm6225-common"
+      ]
+   },
+   {
+      "name": "Redmi Note 9 Pro 5G / Mi 10i / Mi 10T Lite",
+      "brand": "Xiaomi",
+      "codename": "gauguin",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-gauguin-official-pixel-experience-mi-10t-lite-mi-10i-redmi-note-9-pro-5g.4236779/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-gauguin-official-pixel-experience-mi-10t-lite-mi-10i-redmi-note-9-pro-5g.4236779/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-gauguin-official-pixel-experience-12-mi-10t-lite-mi-10i-redmi-note-9-pro-5g.4352869/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-gauguin-official-pixel-experience-12-mi-10t-lite-mi-10i-redmi-note-9-pro-5g.4352869/",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_gauguin",
+         "kernel_xiaomi_gauguin",
+         "vendor_xiaomi_gauguin"
+      ]
+   },
+   {
+      "name": "Mi 5",
+      "brand": "Xiaomi",
+      "codename": "gemini",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/mi-5/development/rom-pixel-experience-t4207127",
+            "deprecated": true,
+            "stable": false
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "https://forum.xda-developers.com/mi-5/development/rom-pixel-experience-t4207127",
+            "deprecated": true,
+            "stable": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_gemini",
+         "device_xiaomi_msm8996-common",
+         "kernel_xiaomi_msm8996",
+         "vendor_xiaomi_msm8996-common",
+         "vendor_xiaomi_gemini"
+      ]
+   },
+   {
+      "name": "Redmi Note 8 / 8T",
+      "brand": "Xiaomi",
+      "codename": "ginkgo",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-stable-ginkgo-willow-pixelexperience-12.4350683",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-stable-ginkgo-willow-pixelexperience-12.4350683",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-official-ginkgo-willow-pixelexperience-13.4494293/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-official-ginkgo-willow-pixelexperience-13.4494293/",
+            "stable": true,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_ginkgo",
+         "device_xiaomi_ginkgo-sepolicy",
+         "device_xiaomi_ginkgo-kernel",
+         "kernel_xiaomi_ginkgo",
+         "vendor_xiaomi_ginkgo"
+      ]
+   },
+   {
+      "name": "7 Pro",
+      "brand": "OnePlus",
+      "codename": "guacamole",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-oneplus-7-pro-official-pixel-experience-aosp.4401289/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-oneplus-7-pro-official-pixel-experience-aosp.4401289/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-oneplus-7-pro-official-pixel-experience-aosp.4401289/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-oneplus-7-pro-official-pixel-experience-aosp.4401289/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-oneplus-7-pro-official-pixel-experience-aosp.4401289/",
+            "stable": false,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_oneplus_guacamole",
+         "device_oneplus_sm8150-common",
+         "kernel_oneplus_sm8150",
+         "vendor_oneplus-firmware",
+         "vendor_oneplus_guacamole",
+         "vendor_oneplus_sm8150-common",
+         "vendor_oneplus_sm8150_apps"
+      ]
+   },
+   {
+      "name": "7",
+      "brand": "OnePlus",
+      "codename": "guacamoleb",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-1-guacamoleb-pixelexperience-aosp-official.4465935/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-1-guacamoleb-pixelexperience-aosp-official.4465935/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-1-guacamoleb-pixelexperience-aosp-official.4465935/",
+            "stable": false,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_oneplus_guacamoleb",
+         "kernel_oneplus_guacamoleb",
+         "vendor_oneplus-firmware",
+         "vendor_oneplus_guacamoleb",
+         "vendor_oneplus_apps_guacamoleb"
+      ]
+   },
+   {
+      "name": "Redmi K40 Pro / Redmi K40 Pro+ / Mi 11X Pro / Mi 11i",
+      "brand": "Xiaomi",
+      "codename": "haydn",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "",
+            "stable": true,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_haydn",
+         "kernel_xiaomi_haydn",
+         "vendor_xiaomi_haydn",
+         "vendor_xiaomi_haydn-firmware",
+         "wiki_blobs_haydn"
+      ]
+   },
+   {
+      "name": "Galaxy S7 Edge",
+      "brand": "Samsung",
+      "codename": "hero2lte",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-unoffical-hero2lte-pixelexperience-aosp.4276771/",
+            "deprecated": true,
+            "stable": false
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-unoffical-hero2lte-pixelexperience-aosp.4276771/",
+            "deprecated": true,
+            "stable": false
+         }
+      ],
+      "repositories": [
+         "device_samsung_hero2lte",
+         "device_samsung_universal8890-common",
+         "kernel_samsung_universal8890",
+         "vendor_samsung_universal8890-common"
+      ]
+   },
+   {
+      "name": "Galaxy S7",
+      "brand": "Samsung",
+      "codename": "herolte",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-unoffical-herolte-pixelexperience-aosp.4276777/",
+            "deprecated": true,
+            "stable": false
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-unoffical-herolte-pixelexperience-aosp.4276777/",
+            "deprecated": true,
+            "stable": false
+         }
+      ],
+      "repositories": [
+         "device_samsung_herolte",
+         "device_samsung_universal8890-common",
+         "kernel_samsung_universal8890",
+         "vendor_samsung_universal8890-common"
+      ]
+   },
+   {
+      "name": "7T Pro",
+      "brand": "OnePlus",
+      "codename": "hotdog",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-oneplus-7t-pro-official-pixel-experience-aosp.4401291/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-oneplus-7t-pro-official-pixel-experience-aosp.4401291/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-oneplus-7t-pro-official-pixel-experience-aosp.4401291/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-oneplus-7t-pro-official-pixel-experience-aosp.4401291/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-oneplus-7t-pro-official-pixel-experience-aosp.4401291/",
+            "stable": false,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_oneplus_hotdog",
+         "device_oneplus_sm8150-common",
+         "kernel_oneplus_sm8150",
+         "vendor_oneplus-firmware",
+         "vendor_oneplus_hotdog",
+         "vendor_oneplus_sm8150-common",
+         "vendor_oneplus_sm8150_apps"
+      ]
+   },
+   {
+      "name": "7T",
+      "brand": "OnePlus",
+      "codename": "hotdogb",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-oneplus-7t-official-pixel-experience-aosp.4401287/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-oneplus-7t-official-pixel-experience-aosp.4401287/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-oneplus-7t-official-pixel-experience-aosp.4401287/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-oneplus-7t-official-pixel-experience-aosp.4401287/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-oneplus-7t-official-pixel-experience-aosp.4401287/",
+            "stable": false,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_oneplus_hotdogb",
+         "device_oneplus_sm8150-common",
+         "kernel_oneplus_sm8150",
+         "vendor_oneplus-firmware",
+         "vendor_oneplus_hotdogb",
+         "vendor_oneplus_sm8150-common",
+         "vendor_oneplus_sm8150_apps"
+      ]
+   },
+   {
+      "name": "8",
+      "brand": "OnePlus",
+      "codename": "instantnoodle",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/oneplus-8/development/rom-pixel-experience-t4168203",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "https://forum.xda-developers.com/oneplus-8/development/rom-pixel-experience-t4168203",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "stable": false,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_oneplus_instantnoodle",
+         "device_oneplus_sm8250-common",
+         "vendor_oneplus-firmware",
+         "vendor_oneplus_instantnoodle",
+         "vendor_oneplus_sm8250-common",
+         "kernel_oneplus_sm8250",
+         "wiki_blobs_instantnoodle"
+      ]
+   },
+   {
+      "name": "8 Pro",
+      "brand": "OnePlus",
+      "codename": "instantnoodlep",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "stable": false,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_oneplus_instantnoodlep",
+         "device_oneplus_sm8250-common",
+         "vendor_oneplus-firmware",
+         "vendor_oneplus_instantnoodlep",
+         "vendor_oneplus_sm8250-common",
+         "kernel_oneplus_sm8250",
+         "wiki_blobs_instantnoodlep"
+      ]
+   },
+   {
+      "name": "Mi A2",
+      "brand": "Xiaomi",
+      "codename": "jasmine_sprout",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-xiaomi-mi-a2-pixelexperience-aosp-25-07-2022.4406351/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-xiaomi-mi-a2-pixelexperience-aosp-25-07-2022.4406351/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-mi-a2-pixelexperience-aosp.4522151/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-mi-a2-pixelexperience-aosp.4522151/",
+            "stable": true,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_jasmine_sprout",
+         "kernel_xiaomi_jasmine_sprout",
+         "vendor_xiaomi_jasmine_sprout",
+         "wiki_blobs_jasmine_sprout",
+         "device_qcom_common",
+         "device_qcom_common-sepolicy",
+         "device_qcom_qssi",
+         "device_qcom_vendor-common",
+         "device_qcom_wlan",
+         "vendor_qcom_common"
+      ]
+   },
+   {
+      "name": "Z5s",
+      "brand": "Lenovo",
+      "codename": "jd2019",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_lenovo_jd2019",
+         "device_lenovo_sdm710-common",
+         "kernel_lenovo_sdm710",
+         "vendor_lenovo_jd2019",
+         "vendor_lenovo_sdm710-common",
+         "vendor_lenovo-firmware"
+      ]
+   },
+   {
+      "name": "Moto One Vision / Motorola P50",
+      "brand": "Motorola",
+      "codename": "kane",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-kane-pixelexperience-aosp.4465953/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-kane-pixelexperience-aosp.4465953/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_motorola_kane",
+         "device_motorola_exynos9610-common",
+         "vendor_motorola_kane",
+         "vendor_motorola_exynos9610-common",
+         "kernel_motorola_exynos9610"
+      ]
+   },
+   {
+      "name": "8T",
+      "brand": "OnePlus",
+      "codename": "kebab",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "stable": false,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_oneplus_kebab",
+         "device_oneplus_sm8250-common",
+         "vendor_oneplus_kebab",
+         "vendor_oneplus_sm8250-common",
+         "kernel_oneplus_sm8250",
+         "wiki_blobs_kebab"
+      ]
+   },
+   {
+      "name": "Z6 Lite",
+      "brand": "Lenovo",
+      "codename": "kunlun2",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-12-0-kunlun2-pixel-experience-for-lenovo-z6-lite-aosp.4078791/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-12-0-kunlun2-pixel-experience-for-lenovo-z6-lite-aosp.4078791/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-12-0-kunlun2-pixel-experience-for-lenovo-z6-lite-aosp.4078791/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-12-0-kunlun2-pixel-experience-for-lenovo-z6-lite-aosp.4078791/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-12-0-kunlun2-pixel-experience-for-lenovo-z6-lite-aosp.4078791/",
+            "stable": false,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_lenovo_kunlun2",
+         "device_lenovo_sdm710-common",
+         "kernel_lenovo_sdm710",
+         "vendor_lenovo_kunlun2",
+         "vendor_lenovo_sdm710-common",
+         "vendor_lenovo-firmware"
+      ]
+   },
+   {
+      "name": "K10 Note",
+      "brand": "Lenovo",
+      "codename": "kunlun2_row",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-12-0-kunlun2-pixel-experience-for-lenovo-z6-lite-aosp.4078791/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-12-0-kunlun2-pixel-experience-for-lenovo-z6-lite-aosp.4078791/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-12-0-kunlun2-pixel-experience-for-lenovo-z6-lite-aosp.4078791/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-12-0-kunlun2-pixel-experience-for-lenovo-z6-lite-aosp.4078791/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-12-0-kunlun2-pixel-experience-for-lenovo-z6-lite-aosp.4078791/",
+            "stable": false,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_lenovo_kunlun2_row",
+         "device_lenovo_sdm710-common",
+         "kernel_lenovo_sdm710",
+         "vendor_lenovo_kunlun2_row",
+         "vendor_lenovo_sdm710-common",
+         "vendor_lenovo-firmware"
+      ]
+   },
+   {
+      "name": "Moto G7 Plus",
+      "brand": "Motorola",
+      "codename": "lake",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-lake-pixelexperience-normal-plus-aosp.4247259/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-lake-pixelexperience-normal-plus-aosp.4247259/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-moto-g7-plus-pixelexperience-aosp.4605383/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-moto-g7-plus-pixelexperience-aosp.4605383/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "stable": false,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_motorola_lake",
+         "device_motorola_sdm660-common",
+         "vendor_motorola_lake",
+         "vendor_motorola-extra",
+         "vendor_motorola_sdm660-common",
+         "kernel_motorola_msm8998"
+      ]
+   },
+   {
+      "name": "Redmi 3S / 3X",
+      "brand": "Xiaomi",
+      "codename": "land",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_land",
+         "kernel_xiaomi_msm8937",
+         "vendor_xiaomi_land"
+      ]
+   },
+   {
+      "name": "Mi A3",
+      "brand": "Xiaomi",
+      "codename": "laurel_sprout",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_laurel_sprout",
+         "kernel_xiaomi_laurel_sprout",
+         "vendor_xiaomi_laurel_sprout",
+         "vendor_xiaomi_laurel_sprout-extra"
+      ]
+   },
+   {
+      "name": "Redmi 9 Prime / POCO M2",
+      "brand": "Xiaomi",
+      "codename": "lava",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_lava",
+         "device_xiaomi_mt6768-common",
+         "kernel_xiaomi_mt6768",
+         "vendor_xiaomi_lava"
+      ]
+   },
+   {
+      "name": "Redmi Note 7 / 7S",
+      "brand": "Xiaomi",
+      "codename": "lavender",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-lavender-official-pixelexperience-aosp.4470689/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-lavender-official-pixelexperience-aosp.4470689/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_lavender",
+         "device_xiaomi_sdm660-common",
+         "kernel_xiaomi_lavender",
+         "kernel_xiaomi_sdm660",
+         "vendor_xiaomi_lavender",
+         "vendor_xiaomi_sdm660-common"
+      ]
+   },
+   {
+      "name": "Moto One Fusion +",
+      "brand": "Motorola",
+      "codename": "liber",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-liber-pixelexperience-plus-aosp.4302669/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-liber-pixelexperience-plus-aosp.4302669/",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_motorola_liber",
+         "device_motorola_sm6150-common",
+         "vendor_motorola_liber",
+         "vendor_motorola_sm6150-common",
+         "kernel_motorola_sm6150"
+      ]
+   },
+   {
+      "name": "Redmi 9T / Redmi 9T NFC / Redmi 9 Power",
+      "brand": "Xiaomi",
+      "codename": "lime",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_chime",
+         "device_xiaomi_lime",
+         "kernel_xiaomi_chime",
+         "vendor_xiaomi_chime",
+         "vendor_xiaomi_lime"
+      ]
+   },
+   {
+      "name": "11 Lite NE 5G",
+      "brand": "Xiaomi",
+      "codename": "lisa",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_lisa",
+         "kernel_xiaomi_lisa",
+         "vendor_xiaomi_lisa",
+         "vendor_xiaomi_lisa-firmware",
+         "vendor_xiaomi_lisa-miuicamera",
+         "wiki_blobs_lisa"
+      ]
+   },
+   {
+      "name": "Mi MIX",
+      "brand": "Xiaomi",
+      "codename": "lithium",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/rom-pixel-experience-t4207151",
+            "deprecated": true,
+            "stable": false
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/rom-pixel-experience-t4207151",
+            "deprecated": true,
+            "stable": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_lithium",
+         "device_xiaomi_msm8996-common",
+         "kernel_xiaomi_msm8996",
+         "vendor_xiaomi_msm8996-common",
+         "vendor_xiaomi_lithium"
+      ]
+   },
+   {
+      "name": "POCO F2 Pro",
+      "brand": "Xiaomi",
+      "codename": "lmi",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/updated-13-04-2022-rom-official-12-1-twelve-pixel-experience-for-k30-pro-zoom-poco-f2-pro-lmi-lmipro.4275995/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/updated-13-04-2022-rom-official-12-1-twelve-pixel-experience-for-k30-pro-zoom-poco-f2-pro-lmi-lmipro.4275995/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "xda_thread": "https://xdaforums.com/t/updated-27-10-2023-rom-official-13-thirteen-pixel-experience-for-k30-pro-zoom-poco-f2-pro-lmi-lmipro.4275995/",
+            "stable": false,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_lmi",
+         "kernel_xiaomi_lmi",
+         "vendor_xiaomi_lmi",
+         "vendor_xiaomi_lmi-miuicamera"
+      ]
+   },
+   {
+      "name": "M52 5G",
+      "brand": "Samsung",
+      "codename": "m52xq",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://xdaforums.com/t/unofficial-rom-13-0-encryption-pixel-experience-13-plus-edition-for-m52-5g.4595059/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://xdaforums.com/t/unofficial-rom-13-0-encryption-pixel-experience-13-plus-edition-for-m52-5g.4595059/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "stable": false,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_samsung_m52xq",
+         "device_samsung_sm7325-common",
+         "kernel_samsung_sm7325",
+         "vendor_samsung_sm7325-common",
+         "vendor_samsung_m52xq"
+      ]
+   },
+   {
+      "name": "Pixel XL",
+      "brand": "Google",
+      "codename": "marlin",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-marlin-pixelexperience-aosp-official.4247199/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-marlin-pixelexperience-aosp-official.4247199/",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_google_marlin",
+         "kernel_google_marlin",
+         "vendor_google_marlin"
+      ]
+   },
+   {
+      "name": "Mi 11 Pro",
+      "brand": "Xiaomi",
+      "codename": "mars",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "stable": false,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_mars",
+         "device_xiaomi_sm8350-common",
+         "kernel_xiaomi_sm8350",
+         "vendor_xiaomi_mars",
+         "vendor_xiaomi_sm8350-common",
+         "wiki_blobs_sm8350"
+      ]
+   },
+   {
+      "name": "9RT",
+      "brand": "OnePlus",
+      "codename": "martini",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-martini-pixelexperience-aosp.4539797/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-martini-pixelexperience-aosp.4539797/",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_oneplus_martini",
+         "vendor_oneplus_martini",
+         "vendor_oneplus-firmware",
+         "kernel_oneplus_martini",
+         "wiki_blobs_martini"
+      ]
+   },
+   {
+      "name": "Redmi Note 9",
+      "brand": "Xiaomi",
+      "codename": "merlinx",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_merlinx",
+         "device_xiaomi_mt6768-common",
+         "kernel_xiaomi_mt6768",
+         "vendor_xiaomi_merlinx"
+      ]
+   },
+   {
+      "name": "Redmi 8 / 8A / 8A Dual",
+      "brand": "Xiaomi",
+      "codename": "mi439",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "xda_thread": "",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-olivewood-pixelexperience-aosp.4384167/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-olivewood-pixelexperience-aosp.4384167/",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_mi439",
+         "device_xiaomi_sdm439-common",
+         "kernel_xiaomi_mi439",
+         "vendor_xiaomi_mi439",
+         "vendor_xiaomi_sdm439-common"
+      ]
+   },
+   {
+      "name": "POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / Redmi Note 10 Lite",
+      "brand": "Xiaomi",
+      "codename": "miatoll",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "deprecated": true,
+            "stable": false
+         },
+         {
+            "version_code": "twelve_plus",
+            "deprecated": true,
+            "stable": false
+         },
+         {
+            "version_code": "thirteen",
+            "deprecated": true,
+            "stable": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "deprecated": true,
+            "stable": true
+         },
+         {
+            "version_code": "fourteen",
+            "deprecated": false,
+            "stable": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_miatoll",
+         "device_xiaomi_sm6250-common",
+         "kernel_xiaomi_sm6250",
+         "vendor_xiaomi_miatoll",
+         "vendor_xiaomi_miatoll-fw",
+         "vendor_xiaomi_miatoll-gcam",
+         "vendor_xiaomi_sm6250-common"
+      ]
+   },
+   {
+      "name": "Redmi Note 4 / 4X",
+      "brand": "Xiaomi",
+      "codename": "mido",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-mido-pixel-experience-aosp-11-0.4004239/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-mido-pixel-experience-aosp-11-0.4004239/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-stable-13-mido-pixelexperience-aosp.4423487/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-stable-13-mido-pixelexperience-aosp.4423487/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-stable-13-mido-pixelexperience-aosp.4423487/",
+            "stable": false,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_mido",
+         "kernel_xiaomi_mido",
+         "vendor_xiaomi_mido"
+      ]
+   },
+   {
+      "name": "Redmi Note 10",
+      "brand": "Xiaomi",
+      "codename": "mojito",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-mojito-sunny-pixel-experience-official-aosp.4264285/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-mojito-sunny-pixel-experience-official-aosp.4264285/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-mojito-sunny-pixel-experience-official-aosp.4264285/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-mojito-sunny-pixel-experience-official-aosp.4264285/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-14-mojito-sunny-pixel-experience-official-aosp.4264285/",
+            "stable": false,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_mojito",
+         "device_xiaomi_mojito-sepolicy",
+         "kernel_xiaomi_mojito",
+         "vendor_xiaomi_mojito",
+         "wiki_blobs_mojito"
+      ]
+   },
+   {
+      "name": "Mi 10 Lite 5G",
+      "brand": "Xiaomi",
+      "codename": "monet",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/4378865/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/4378865/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/4378865/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/4378865/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "xda_thread": "https://forum.xda-developers.com/t/4378865/",
+            "stable": false,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_monet",
+         "device_xiaomi_sm7250-common",
+         "kernel_xiaomi_monet",
+         "vendor_xiaomi_monet",
+         "vendor_xiaomi_sm7250-common",
+         "vendor_xiaomi-firmware"
+      ]
+   },
+   {
+      "name": "POCO F4 / Redmi K40S",
+      "brand": "Xiaomi",
+      "codename": "munch",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-munch-pixelexperience-official-aosp.4559383/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-munch-pixelexperience-official-aosp.4559383/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "xda_thread": "",
+            "stable": false,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_munch",
+         "device_xiaomi_sm8250-common",
+         "kernel_xiaomi_sm8250",
+         "vendor_xiaomi_munch",
+         "vendor_xiaomi_sm8250-common",
+         "wiki_blobs_munch",
+         "vendor_xiaomi_munch-firmware"
+      ]
+   },
+   {
+      "name": "Mi 5s Plus",
+      "brand": "Xiaomi",
+      "codename": "natrium",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/mi-5s-plus/development/rom-pixel-experience-t4207141",
+            "deprecated": true,
+            "stable": false
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "https://forum.xda-developers.com/mi-5s-plus/development/rom-pixel-experience-t4207141",
+            "deprecated": true,
+            "stable": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_natrium",
+         "device_xiaomi_msm8996-common",
+         "kernel_xiaomi_msm8996",
+         "vendor_xiaomi_msm8996-common",
+         "vendor_xiaomi_natrium"
+      ]
+   },
+   {
+      "name": "Edge S / Moto G100",
+      "brand": "Motorola",
+      "codename": "nio",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "deprecated": true,
+            "stable": false
+         },
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "stable": false,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_motorola_nio",
+         "device_motorola_sm8250-common",
+         "kernel_motorola_sm8250",
+         "vendor_motorola-extra",
+         "vendor_motorola_nio",
+         "vendor_motorola_sm8250-common",
+         "wiki_blobs_nio"
+      ]
+   },
+   {
+      "name": "Moto G7 Power",
+      "brand": "Motorola",
+      "codename": "ocean",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_motorola_ocean",
+         "device_motorola_sdm632-common",
+         "kernel_motorola_sdm632",
+         "vendor_motorola_ocean",
+         "vendor_motorola_sdm632-common"
+      ]
+   },
+   {
+      "name": "3 / 3T",
+      "brand": "OnePlus",
+      "codename": "oneplus3",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/t/4196403/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/4196403/",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_oneplus_oneplus3",
+         "vendor_oneplus_oneplus3",
+         "kernel_oneplus_msm8996"
+      ]
+   },
+   {
+      "name": "Mi Max 2",
+      "brand": "Xiaomi",
+      "codename": "oxygen",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "xda_thread": "https://forum.xda-developers.com/t/4453453/",
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "xda_thread": "https://forum.xda-developers.com/t/4453453/",
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_oxygen",
+         "kernel_xiaomi_oxygen",
+         "vendor_xiaomi_oxygen"
+      ]
+   },
+   {
+      "name": "Moto One Zoom",
+      "brand": "Motorola",
+      "codename": "parker",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-parker-pixelexperience-plus-aosp.4302667/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-parker-pixelexperience-plus-aosp.4302667/",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_motorola_parker",
+         "device_motorola_sm6150-common",
+         "vendor_motorola_parker",
+         "vendor_motorola_sm6150-common",
+         "kernel_motorola_sm6150"
+      ]
+   },
+   {
+      "name": "Moto X4",
+      "brand": "Motorola",
+      "codename": "payton",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "xda_thread": "https://forum.xda-developers.com/t/official-rom-12-1-payton-pixelexperience-aosp.4449627/",
+            "telegram_url": "https://t.me/paytonpe",
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "stable": false,
+            "xda_thread": "https://forum.xda-developers.com/t/official-rom-12-1-payton-pixelexperience-aosp.4449627/",
+            "telegram_url": "https://t.me/paytonpe",
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": false,
+            "xda_thread": "https://forum.xda-developers.com/t/official-rom-13-payton-pixelexperience-aosp.4518659/",
+            "telegram_url": "https://t.me/paytonpe",
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": false,
+            "xda_thread": "https://forum.xda-developers.com/t/official-rom-13-payton-pixelexperience-aosp.4518659/",
+            "telegram_url": "https://t.me/paytonpe",
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_motorola_payton",
+         "kernel_motorola_payton",
+         "vendor_motorola_payton"
+      ]
+   },
+   {
+      "name": "Redmi K30 / POCO X2",
+      "brand": "Xiaomi",
+      "codename": "phoenix",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/poco-x2/development/rom-pixel-experience-t4073897",
+            "deprecated": true,
+            "stable": false
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "https://forum.xda-developers.com/poco-x2/development/rom-pixel-experience-t4073897",
+            "deprecated": true,
+            "stable": false
+         },
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-phoenix-phoenixin-pixelexperience-aosp.4366787",
+            "deprecated": true,
+            "stable": false
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-phoenix-phoenixin-pixelexperience-aosp.4366787",
+            "deprecated": true,
+            "stable": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_phoenix",
+         "kernel_xiaomi_phoenix",
+         "vendor_xiaomi_phoenix"
+      ]
+   },
+   {
+      "name": "Redmi K30 5G",
+      "brand": "Xiaomi",
+      "codename": "picasso",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_picasso_48m",
+         "device_xiaomi_picasso",
+         "kernel_xiaomi_picasso",
+         "vendor_xiaomi_picasso",
+         "vendor_xiaomi_picasso_48m"
+      ]
+   },
+   {
+      "name": "Redmi K30i 5G",
+      "brand": "Xiaomi",
+      "codename": "picasso_48m",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_picasso_48m",
+         "device_xiaomi_picasso",
+         "kernel_xiaomi_picasso",
+         "vendor_xiaomi_picasso",
+         "vendor_xiaomi_picasso_48m"
+      ]
+   },
+   {
+      "name": "Redmi 7A",
+      "brand": "Xiaomi",
+      "codename": "pine",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_pine",
+         "kernel_xiaomi_pine",
+         "vendor_xiaomi_pine"
+      ]
+   },
+   {
+      "name": "Mi 8 Lite",
+      "brand": "Xiaomi",
+      "codename": "platina",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-13-platina-pixelexperience-aosp.4546773/",
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-13-platina-pixelexperience-aosp.4546773/",
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_platina",
+         "device_xiaomi_sdm660-common",
+         "kernel_xiaomi_sdm660",
+         "vendor_xiaomi_platina",
+         "vendor_xiaomi_sdm660-common",
+         "vendor_xiaomi-firmware"
+      ]
+   },
+   {
+      "name": "Mi MIX 2S",
+      "brand": "Xiaomi",
+      "codename": "polaris",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "xda_thread": "https://forum.xda-developers.com/t/4038949/",
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "stable": false,
+            "xda_thread": "https://forum.xda-developers.com/t/4038949/",
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "xda_thread": "https://forum.xda-developers.com/t/4038949/",
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "xda_thread": "https://forum.xda-developers.com/t/4038949/",
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_sdm845-common",
+         "vendor_xiaomi_sdm845-common",
+         "vendor_xiaomi_sdm845-common-extra",
+         "vendor_xiaomi-firmware",
+         "device_xiaomi_polaris",
+         "kernel_xiaomi_polaris",
+         "vendor_xiaomi_polaris"
+      ]
+   },
+   {
+      "name": "Moto G5 Plus",
+      "brand": "Motorola",
+      "codename": "potter",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_motorola_potter",
+         "kernel_motorola_potter",
+         "vendor_motorola_potter"
+      ]
+   },
+   {
+      "name": "2 Pro",
+      "brand": "Realme",
+      "codename": "r2p",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_realme_r2p",
+         "kernel_realme_sdm660",
+         "vendor_realme_r2p"
+      ]
+   },
+   {
+      "name": "5 / 5s / 5i",
+      "brand": "Realme",
+      "codename": "r5x",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_realme_r5x",
+         "kernel_realme_r5x",
+         "vendor_realme_r5x"
+      ]
+   },
+   {
+      "name": "Redmi K20 Pro / Mi 9T Pro",
+      "brand": "Xiaomi",
+      "codename": "raphael",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "stable": false,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_raphael",
+         "kernel_xiaomi_raphael",
+         "vendor_xiaomi_raphael"
+      ]
+   },
+   {
+      "name": "Pixel 5",
+      "brand": "Google",
+      "codename": "redfin",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "stable": false,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_google_gs_common",
+         "device_google_redfin",
+         "device_google_redbull",
+         "vendor_google_redfin",
+         "vendor_google-extra",
+         "kernel_google_redbull",
+         "wiki_blobs_redbull"
+      ]
+   },
+   {
+      "name": "POCO X5 Pro 5G / Redmi Note 12 Pro Speed Edition",
+      "brand": "Xiaomi",
+      "codename": "redwood",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "stable": false,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_redwood",
+         "device_xiaomi_sm7325-common",
+         "vendor_xiaomi_redwood",
+         "vendor_xiaomi_sm7325-common",
+         "vendor_xiaomi_redwood-firmware",
+         "vendor_xiaomi_redwood-miuicamera",
+         "kernel_xiaomi_sm7325",
+         "wiki_blobs_redwood"
+      ]
+   },
+   {
+      "name": "Mi 11 Lite 5G",
+      "brand": "Xiaomi",
+      "codename": "renoir",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve",
+            "telegram_url": "https://t.me/arixeloroms",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "telegram_url": "https://t.me/arixeloroms",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_renoir",
+         "device_xiaomi_sm7350-common",
+         "kernel_xiaomi_sm7350",
+         "vendor_xiaomi_renoir",
+         "vendor_xiaomi_renoir-firmware",
+         "vendor_xiaomi_sm7350-common",
+         "wiki_blobs_renoir"
+      ]
+   },
+   {
+      "name": "Moto G7",
+      "brand": "Motorola",
+      "codename": "river",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-river-pixelexperience-aosp.4394653",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_motorola_river",
+         "device_motorola_sdm632-common",
+         "kernel_motorola_sdm632",
+         "packages_apps_MotCamera2",
+         "vendor_motorola_river",
+         "vendor_motorola_sdm632-common"
+      ]
+   },
+   {
+      "name": "Redmi Note 10S/11 SE",
+      "brand": "Xiaomi",
+      "codename": "rosemary",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_redmi_rosemary",
+         "kernel_redmi_rosemary",
+         "vendor_redmi_rosemary",
+         "vendor_redmi_rosemary-firmware",
+         "device_mediatek_common",
+         "vendor_mediatek-opensource",
+         "vendor_mediatek_interfaces"
+      ]
+   },
+   {
+      "name": "Redmi 5",
+      "brand": "Xiaomi",
+      "codename": "rosy",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-rosy-pixelexperience-aosp-official-2021-02-05.4083285/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-rosy-pixelexperience-aosp-official-2021-02-05.4083285/",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_rosy",
+         "kernel_xiaomi_rosy",
+         "vendor_xiaomi_rosy"
+      ]
+   },
+   {
+      "name": "Pixel",
+      "brand": "Google",
+      "codename": "sailfish",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-sailfish-pixelexperience-aosp-official.4247201/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-sailfish-pixelexperience-aosp-official.4247201/",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_google_sailfish",
+         "device_google_marlin",
+         "kernel_google_marlin",
+         "vendor_google_sailfish"
+      ]
+   },
+   {
+      "name": "Redmi 6 Pro",
+      "brand": "Xiaomi",
+      "codename": "sakura",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-sakura-sakurain-pixel-experience-official-aosp.4390723/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-sakura-sakurain-pixel-experience-official-aosp.4390723/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-sakura-sakurain-pixel-experience-official-aosp.4390723/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-sakura-sakurain-pixel-experience-official-aosp.4390723/",
+            "stable": true,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_sakura",
+         "kernel_xiaomi_msm8953",
+         "vendor_xiaomi_sakura"
+      ]
+   },
+   {
+      "name": "Moto G5S Plus",
+      "brand": "Motorola",
+      "codename": "sanders",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-sanders-pixelexperience-normal-plus-aosp.4247243/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-sanders-pixelexperience-normal-plus-aosp.4247243/",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_motorola_sanders",
+         "device_motorola_msm8953-common",
+         "vendor_motorola_sanders",
+         "vendor_motorola_msm8953-common",
+         "kernel_motorola_msm8953"
+      ]
+   },
+   {
+      "name": "Pixel 3A",
+      "brand": "Google",
+      "codename": "sargo",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-sargo-pixel-experience-aosp.4499561/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-sargo-pixel-experience-aosp.4499561/",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_google_sargo",
+         "device_google_bonito",
+         "vendor_google_sargo",
+         "kernel_google_msm-4.9"
+      ]
+   },
+   {
+      "name": "Mi Note 2",
+      "brand": "Xiaomi",
+      "codename": "scorpio",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/mi-note-2/development/rom-pixel-experience-t4207145",
+            "deprecated": true,
+            "stable": false
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "https://forum.xda-developers.com/mi-note-2/development/rom-pixel-experience-t4207145",
+            "deprecated": true,
+            "stable": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_scorpio",
+         "device_xiaomi_msm8996-common",
+         "kernel_xiaomi_msm8996",
+         "vendor_xiaomi_msm8996-common",
+         "vendor_xiaomi_scorpio"
+      ]
+   },
+   {
+      "name": "Mi 8 SE",
+      "brand": "Xiaomi",
+      "codename": "sirius",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "xda_thread": "https://forum.xda-developers.com/t/4355535/",
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "stable": false,
+            "xda_thread": "https://forum.xda-developers.com/t/4355535/",
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "xda_thread": "https://forum.xda-developers.com/t/4355535/",
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "xda_thread": "https://forum.xda-developers.com/t/4355535/",
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_sirius",
+         "device_xiaomi_sdm710-common",
+         "kernel_xiaomi_sdm710",
+         "vendor_xiaomi_sdm710-common",
+         "vendor_xiaomi_sirius",
+         "vendor_xiaomi-firmware",
+         "vendor_xiaomi_sdm845-common-extra"
+      ]
+   },
+   {
+      "name": "Redmi Note 11",
+      "brand": "Xiaomi",
+      "codename": "spes",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_qcom_common",
+         "device_qcom_common-sepolicy",
+         "device_qcom_qssi",
+         "device_qcom_vendor-common",
+         "device_qcom_wlan",
+         "device_xiaomi_spes",
+         "device_xiaomi_sm6225-common",
+         "device_xiaomi_sm6225-common-miuicamera",
+         "device_xiaomi_spes-kernel",
+         "kernel_xiaomi_sm6225",
+         "vendor_qcom_common",
+         "vendor_xiaomi_spes",
+         "vendor_xiaomi_sm6225-common",
+         "vendor_xiaomi_sm6225-common-miuicamera"
+      ]
+   },
+   {
+      "name": "Galaxy S9+",
+      "brand": "Samsung",
+      "codename": "star2lte",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-1-oss-pixelexperience-plus-unofficial.4399579/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-1-oss-pixelexperience-plus-unofficial.4399579/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/4399579/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/4399579/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "xda_thread": "https://forum.xda-developers.com/t/4399579/",
+            "stable": false,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_samsung_star2lte",
+         "device_samsung_exynos9810-common",
+         "kernel_samsung_exynos9810",
+         "vendor_samsung_star2lte",
+         "vendor_samsung_exynos9810-common"
+      ]
+   },
+   {
+      "name": "Galaxy S9",
+      "brand": "Samsung",
+      "codename": "starlte",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-1-oss-pixelexperience-plus-unofficial.4399579/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-1-oss-pixelexperience-plus-unofficial.4399579/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/4399579/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/4399579/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "xda_thread": "https://forum.xda-developers.com/t/4399579/",
+            "stable": false,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_samsung_starlte",
+         "device_samsung_exynos9810-common",
+         "kernel_samsung_exynos9810",
+         "vendor_samsung_starlte",
+         "vendor_samsung_exynos9810-common"
+      ]
+   },
+   {
+      "name": "Pixel 4a",
+      "brand": "Google",
+      "codename": "sunfish",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-sunfish-pixelexperience-aosp.4392819/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-sunfish-pixelexperience-aosp.4392819/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-sunfish-pixelexperience-aosp.4548911/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-sunfish-pixelexperience-aosp.4548911/",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_google_sunfish",
+         "kernel_google_msm-4.14",
+         "vendor_google_sunfish"
+      ]
+   },
+   {
+      "name": "POCO X3",
+      "brand": "Xiaomi",
+      "codename": "surya",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_qcom_common",
+         "device_qcom_common-sepolicy",
+         "device_qcom_qssi",
+         "device_qcom_vendor-common",
+         "device_qcom_wlan",
+         "device_xiaomi_surya",
+         "device_xiaomi_surya-miuicamera",
+         "device_xiaomi_J20C-sepolicy",
+         "kernel_xiaomi_surya",
+         "vendor_qcom_common",
+         "vendor_xiaomi_surya",
+         "vendor_xiaomi_surya-miuicamera",
+         "vendor_xiaomi-firmware"
+      ]
+   },
+   {
+      "name": "Redmi Note 10 Pro / Pro Max",
+      "brand": "Xiaomi",
+      "codename": "sweet",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-sweet-sweetin-pixel-experience-official-aosp.4267135/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-sweet-sweetin-pixel-experience-official-aosp.4267135/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "xda_thread": "",
+            "stable": false,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_sweet",
+         "kernel_xiaomi_sweet",
+         "vendor_xiaomi_sweet",
+         "vendor_xiaomi_sweet-miuicamera"
+      ]
+   },
+   {
+      "name": "Pixel 2 XL",
+      "brand": "Google",
+      "codename": "taimen",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-taimen-pixelexperience-aosp-official.4365915/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-taimen-pixelexperience-aosp-official.4365915/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_google_taimen",
+         "device_google_wahoo",
+         "kernel_google_wahoo",
+         "vendor_google_taimen",
+         "wiki_blobs_wahoo",
+         "vendor_google_wahoo-googlecamera"
+      ]
+   },
+   {
+      "name": "Mi 10S",
+      "brand": "Xiaomi",
+      "codename": "thyme",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_thyme",
+         "kernel_xiaomi_thyme",
+         "vendor_xiaomi_thyme",
+         "vendor_xiaomi_thyme-prebuilt",
+         "vendor_xiaomi_thyme-miuicamera",
+         "vendor_xiaomi_thyme-firmware"
+      ]
+   },
+   {
+      "name": "Mi A1",
+      "brand": "Xiaomi",
+      "codename": "tissot",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-tissot-pixelexperience-aosp-beta.4351515",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-tissot-pixelexperience-aosp-beta.4351515",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/4520469/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/4520469/",
+            "stable": true,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_tissot",
+         "device_xiaomi_msm8953-common",
+         "kernel_xiaomi_tissot",
+         "vendor_xiaomi_tissot",
+         "vendor_xiaomi_msm8953-common"
+      ]
+   },
+   {
+      "name": "Moto One Action",
+      "brand": "Motorola",
+      "codename": "troika",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_motorola_troika",
+         "device_motorola_exynos9610-common",
+         "vendor_motorola_troika",
+         "vendor_motorola_exynos9610-common",
+         "kernel_motorola_exynos9610"
+      ]
+   },
+   {
+      "name": "Mi CC9 Pro / Note 10",
+      "brand": "Xiaomi",
+      "codename": "tucana",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-tucana-pixel-experience-aosp-2021-09-22.4337385",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-tucana-pixel-experience-aosp-2021-09-22.4337385",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_tucana",
+         "device_xiaomi_sm6150-common",
+         "vendor_xiaomi_tucana",
+         "vendor_xiaomi_sm6150-common",
+         "kernel_xiaomi_tucana"
+      ]
+   },
+   {
+      "name": "Redmi Note 6 Pro",
+      "brand": "Xiaomi",
+      "codename": "tulip",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_tulip",
+         "device_xiaomi_sdm660-common",
+         "kernel_xiaomi_sdm660",
+         "vendor_xiaomi_tulip",
+         "vendor_xiaomi_sdm660-common"
+      ]
+   },
+   {
+      "name": "One",
+      "brand": "Teracube",
+      "codename": "v7101o",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-pixelexperience-for-teracube-one-v7101o.4197855/",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_teracube_v7101o",
+         "device_teracube_v7101o-modules",
+         "kernel_mediatek_alps-4.4",
+         "vendor_teracube_v7101o",
+         "vendor_teracube_v7101o-vendor",
+         "vendor_teracube_firmware"
+      ]
+   },
+   {
+      "name": "Mi 10 Lite Zoom / Youth Edition",
+      "brand": "Xiaomi",
+      "codename": "vangogh",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/4380355/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/4380355/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/4380355/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/4380355/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "xda_thread": "https://forum.xda-developers.com/t/4380355/",
+            "stable": false,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_vangogh",
+         "device_xiaomi_sm7250-common",
+         "kernel_xiaomi_vangogh",
+         "vendor_xiaomi_vangogh",
+         "vendor_xiaomi_sm7250-common",
+         "vendor_xiaomi-firmware"
+      ]
+   },
+   {
+      "name": "POCO X3 Pro",
+      "brand": "Xiaomi",
+      "codename": "vayu",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_vayu",
+         "kernel_xiaomi_vayu",
+         "vendor_xiaomi_vayu"
+      ]
+   },
+   {
+      "name": "Mi 11",
+      "brand": "Xiaomi",
+      "codename": "venus",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "stable": false,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_venus",
+         "device_xiaomi_sm8350-common",
+         "kernel_xiaomi_sm8350",
+         "vendor_xiaomi_venus",
+         "vendor_xiaomi_sm8350-common",
+         "wiki_blobs_sm8350"
+      ]
+   },
+   {
+      "name": "POCO X4 Pro 5G / Redmi Note 11 Pro 5G / Redmi Note 11 Pro+ 5G / Redmi Note 11E Pro",
+      "brand": "Xiaomi",
+      "codename": "veux",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-veux-pixelexperience-aosp.4557537/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-veux-pixelexperience-aosp.4557537/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "stable": false,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_veux",
+         "device_xiaomi_veux-kernel",
+         "kernel_xiaomi_sm6375",
+         "vendor_xiaomi_miuicamera-veux",
+         "vendor_xiaomi_veux",
+         "wiki_blobs_veux"
+      ]
+   },
+   {
+      "name": "Redmi 5 Plus",
+      "brand": "Xiaomi",
+      "codename": "vince",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": false,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_vince",
+         "kernel_xiaomi_vince",
+         "vendor_xiaomi_vince"
+      ]
+   },
+   {
+      "name": "Redmi Note 7 Pro",
+      "brand": "Xiaomi",
+      "codename": "violet",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-violet-pixel-experience-beta-official.4200603/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-violet-pixel-experience-beta-official.4200603/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-violet-pixel-experience-beta-official.4200603/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-violet-pixel-experience-beta-official.4200603/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "xda_thread": "",
+            "stable": false,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_violet",
+         "kernel_xiaomi_violet",
+         "vendor_xiaomi_violet",
+         "vendor_xiaomi_violet-miuicamera",
+         "vendor_xiaomi-firmware"
+      ]
+   },
+   {
+      "name": "Redmi Note 7 Pro",
+      "brand": "Xiaomi",
+      "codename": "violet",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-violet-pixel-experience-beta-official.4200603/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-violet-pixel-experience-beta-official.4200603/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "xda_thread": "",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_pissaarro",
+         "kernel_xiaomi_pissarro",
+         "vendor_xiaomi_pissarro"
+      ]
+   },
+   {
+      "name": "Pixel 2",
+      "brand": "Google",
+      "codename": "walleye",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-walleye-pixelexperience-aosp-official.4365917/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-walleye-pixelexperience-aosp-official.4365917/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_google_walleye",
+         "device_google_wahoo",
+         "kernel_google_wahoo",
+         "vendor_google_walleye",
+         "wiki_blobs_wahoo",
+         "vendor_google_wahoo-googlecamera"
+      ]
+   },
+   {
+      "name": "Redmi Note 5 Global / Pro",
+      "brand": "Xiaomi",
+      "codename": "whyred",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-whyred-pixel-experience-stable-official.4245467/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-whyred-pixel-experience-stable-official.4245467/",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_whyred",
+         "device_xiaomi_sdm660-common",
+         "kernel_xiaomi_sdm660",
+         "vendor_xiaomi_whyred",
+         "vendor_xiaomi_sdm660-common"
+      ]
+   },
+   {
+      "name": "Z6 Pro",
+      "brand": "Lenovo",
+      "codename": "zippo",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "twelve_plus",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_lenovo_zippo",
+         "device_lenovo_sm8150-common",
+         "kernel_lenovo_sm8150",
+         "vendor_lenovo_zippo",
+         "vendor_lenovo-firmware"
+      ]
+   }
+]
